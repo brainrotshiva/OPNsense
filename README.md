@@ -202,7 +202,7 @@ System > Configuration > Backups > Git
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@brainrotshiva](https://github.com/brainrotshiva)
 
 ---
 
